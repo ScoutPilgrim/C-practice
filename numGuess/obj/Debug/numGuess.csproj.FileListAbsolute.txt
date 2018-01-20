@@ -1,0 +1,6 @@
+d:\documents\visual studio 2017\Projects\numGuess\bin\Debug\numGuess.exe.config
+d:\documents\visual studio 2017\Projects\numGuess\bin\Debug\numGuess.exe
+d:\documents\visual studio 2017\Projects\numGuess\bin\Debug\numGuess.pdb
+d:\documents\visual studio 2017\Projects\numGuess\obj\Debug\numGuess.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2017\Projects\numGuess\obj\Debug\numGuess.exe
+d:\documents\visual studio 2017\Projects\numGuess\obj\Debug\numGuess.pdb
